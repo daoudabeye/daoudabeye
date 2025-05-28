@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Daouda Beye
 
-<!--
-**daoudabeye/daoudabeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architecte logiciel | Ingénieur DevOps | Expert fintech & systèmes distribués**
 
-Here are some ideas to get you started:
+🎯 J’aide les entreprises à concevoir des solutions **fiables, sécurisées et évolutives** dans les domaines des **paiements numériques**, des **infrastructures cloud** et de la **transformation digitale en Afrique**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 À propos de moi
+
+- 👨‍💻 Plus de **5 ans d’expérience** en développement logiciel & ingénierie système
+- 🏦 Fondateur technique de [Ikawaari](https://www.ikawaari.com), une **fintech innovante** en Afrique de l’Ouest
+- ☁️ Passionné par le **cloud (Azure, AWS)**, l’**automatisation CI/CD**, et l’**architecture modulaire SaaS**
+- 🔒 Défenseur de la **sécurité des données**, la **conformité (PCI-DSS, RGPD)** et l’**interopérabilité API**
+- 🌍 Engagé pour une **inclusion financière durable et souveraine**
+
+---
+
+## 🔧 Compétences techniques
+
+| Domaines | Technologies |
+|---------|--------------|
+| 🧠 Langages | C#, Java, Python, JavaScript, TypeScript |
+| ⚙️ Backend | ASP.NET Core, ABP Framework, Spring Boot |
+| 🖥️ Frontend | Blazor, Razor, React (basique), Tailwind CSS |
+| 📦 DevOps | Docker, GitLab CI/CD, NGINX, Azure DevOps |
+| ☁️ Cloud & Sécu | Azure, AWS, Vault, Keycloak, OpenIddict |
+| 📊 Data & DB | PostgreSQL, MongoDB, Redis, Elasticsearch |
+| 💳 Paiements | Mobile Money, Visa/MasterCard, Stripe, Binance API |
+| 📱 Mobile | Flutter (paiement NFC, KYC, UX animée) |
+
+---
+
+## 🔭 Projets récents
+
+- **Ikawaari Payment SDK** – Composant headless JS inspiré de Stripe Payment Element
+- **KYC + Device Trust** – Système d’enregistrement sécurisé d’appareils utilisateurs
+- **Plugin System ABP** – Architecture modulaire multi-tenant SaaS avec installation dynamique
+- **Intégration bancaire (BSIC)** – API fintech pour partenariat en Afrique francophone
+
+---
+
+## 🧩 Ce que j’apporte
+
+✅ Une **vision technique claire** du produit à long terme  
+✅ Une **polyvalence rare** sur tous les maillons de la chaîne (infra, API, UI, CI/CD)  
+✅ Un **focus utilisateur** même dans les choix d’architecture  
+✅ Une capacité à **structurer, déléguer et livrer**
+
+---
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daoudabeye/)
+- ✉️ dev@ikawaari.com
+- 🧠 [Ikawaari sur GitHub](https://github.com/ikawaari)
+
+---
+
+> *"Construire les rails financiers de demain pour l’Afrique, avec excellence et souveraineté."*
+
